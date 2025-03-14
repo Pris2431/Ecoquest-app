@@ -1,6 +1,6 @@
 # EcoQuest
 ![image](https://github.com/user-attachments/assets/c4ff12a0-bc55-4f1c-a7f0-fce04562702d)
-https://github.com/user-attachments/assets/dfa284ed-9fa4-43c0-920b-10cfbde8d612
+### Watch our short video! https://github.com/user-attachments/assets/dfa284ed-9fa4-43c0-920b-10cfbde8d612
 ### Presentation Slides: https://www.canva.com/design/DAGbYP58Ke8/7EaKF6VZRYcFXMdfPj6VEQ/view?utm_content=DAGbYP58Ke8&utm_campaign=designshare&utm_medium=link
 
 ## 🌱 About EcoQuest
