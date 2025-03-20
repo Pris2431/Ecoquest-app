@@ -1,6 +1,6 @@
 # EcoQuest
 ![image](https://github.com/user-attachments/assets/c4ff12a0-bc55-4f1c-a7f0-fce04562702d)
-### Watch our short video! https://github.com/user-attachments/assets/dfa284ed-9fa4-43c0-920b-10cfbde8d612
+### Watch our presentation video! https://github.com/user-attachments/assets/dfa284ed-9fa4-43c0-920b-10cfbde8d612
 ### Presentation Slides: https://www.canva.com/design/DAGbYP58Ke8/7EaKF6VZRYcFXMdfPj6VEQ/view?utm_content=DAGbYP58Ke8&utm_campaign=designshare&utm_medium=link
 
 ## 🌱 About EcoQuest
@@ -38,7 +38,7 @@ EcoQuest is a gamified sustainability app designed to make eco-friendly habits e
 ## 🔧 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/EcoQuest.git
+   git clone https://github.com/Pris2431/Ecoquest-app.git
    ```
 2. Open the project in Android Studio.
 3. Configure Firebase:
