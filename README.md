@@ -1,7 +1,7 @@
 # EcoQuest
 ![image](https://github.com/user-attachments/assets/c4ff12a0-bc55-4f1c-a7f0-fce04562702d)
 ### Watch our presentation video! https://github.com/user-attachments/assets/dfa284ed-9fa4-43c0-920b-10cfbde8d612
-### Presentation Slides: https://www.canva.com/design/DAGbYP58Ke8/7EaKF6VZRYcFXMdfPj6VEQ/view?utm_content=DAGbYP58Ke8&utm_campaign=designshare&utm_medium=link
+### Presentation Slides and Project Demo: [https://www.canva.com/design/DAGbYP58Ke8/7EaKF6VZRYcFXMdfPj6VEQ/view?utm_content=DAGbYP58Ke8&utm_campaign=designshare&utm_medium=link](https://www.canva.com/design/DAGe4rHT6tQ/Jx6ZaxudDnjGb284qwxQRw/view?utm_content=DAGe4rHT6tQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2111ec4d96 )
 
 ## 🌱 About EcoQuest
 EcoQuest is a gamified sustainability app designed to make eco-friendly habits engaging and rewarding. Users complete daily quests like reducing waste, walking instead of driving, and attending green events to earn points. These points can be used to grow and nurture virtual trees, contributing to a leaderboard where users compete with peers across different schools in Singapore.
